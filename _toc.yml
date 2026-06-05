@@ -24,3 +24,8 @@ parts:
   - file: docs/ch4/lesson1
   - file: docs/ch4/lesson2
   - file: docs/ch4/lesson3
+
+- caption: 5. Classification
+  chapters:
+  - file: docs/ch5/lesson1
+  - file: docs/ch5/lesson2
