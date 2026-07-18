@@ -1,24 +1,27 @@
-# Welcome to EMERGE
+# Bienvenidos a EMERGE
 
-Environmental Monitoring through Education, Research & Geospatial Engagement (EMERGE) is an initiative of the University of Florida's [Geospatial Digital Informatics Lab](https://geodi.geog.ufl.edu/) that connects with educators, libraries, community organizations, and individuals across Florida to engage in environmental monitoring and community-based research using real-world data and participatory science.
+Environmental Monitoring through Education, Research & Geospatial Engagement (EMERGE) es una iniciativa del [Geospatial Digital Informatics Lab](https://geodi.geog.ufl.edu/) de la Universidad de Florida que colabora con educadores, bibliotecas, organizaciones comunitarias y personas de todo el estado de Florida para participar en el monitoreo ambiental y la investigación comunitaria mediante datos del mundo real y ciencia participativa.
 
-Through participatory science initiatives like GLOBE Observer, iNaturalist, and more, participants help monitor mosquito breeding sites, classify land cover, and contribute data to global scientific efforts.
+A través de iniciativas de ciencia participativa como GLOBE Observer, iNaturalist y otras, las personas participantes ayudan a monitorear criaderos de mosquitos, clasificar la cobertura terrestre y aportar datos a esfuerzos científicos de alcance mundial.
 
-This digital textbook includes interactive coding tutorials designed to introduce you to the expansive capabilities of participatory science and geospatial artificial intelligence.
+Este libro de texto digital incluye tutoriales interactivos de programación diseñados para presentar las amplias posibilidades de la ciencia participativa y la inteligencia artificial geoespacial.
 
-# Table of Contents
+# Tabla de contenidos
 
 ```{tableofcontents}
 ```
 
-# Acknowledgements
-The EMERGE team is grateful for support from the Earth Science Information Partners through the ESIP Lab award, [Democratizing Geospatial AI/ML](https://www.esipfed.org/democratizing-geospatial-ai-ml-new-esip-lab-awards/).
+# Agradecimientos
 
-# Resources
-- [First textbook for EMERGE](https://geo-di-lab.github.io/emerge-lessons/intro.html) focusing on introductory coding with Python and Google Earth Engine ([more information here](https://geoemerge.com/curricula/))
+El equipo de EMERGE agradece el apoyo de Earth Science Information Partners a través del premio ESIP Lab, [Democratizing Geospatial AI/ML](https://www.esipfed.org/democratizing-geospatial-ai-ml-new-esip-lab-awards/).
+
+# Recursos
+
+- [Primer libro de texto de EMERGE](https://geo-di-lab.github.io/emerge-lessons/intro.html), enfocado en una introducción a la programación con Python y Google Earth Engine ([más información aquí](https://geoemerge.com/curricula/))
 - [SciStarter](https://scistarter.org/)
 - [CitSci](https://citsci.org/)
 - [Association for Advancing Participatory Sciences](https://participatorysciences.org/)
 
-# Coming Soon
-More lessons focused on remote sensing data Google Earth Engine and catered resources based on feedback from our network.
+# Próximamente
+
+Más lecciones centradas en datos de teledetección y Google Earth Engine, junto con recursos adaptados a partir de los comentarios de nuestra red.
