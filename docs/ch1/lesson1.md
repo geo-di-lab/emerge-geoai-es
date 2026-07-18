@@ -1,43 +1,28 @@
-# Get Google Earth Engine
-
+# Obtén Google Earth Engine
 ```{note}
-We recommend using an `@gmail.com` address instead of an institutional .org or .edu email address. This is because Google Cloud may have different options based on your institutional email's settings. Thus, we found that Gmail may be the best for working with Google Earth Engine for educational purposes.
+Recomendamos usar una dirección `@gmail.com` en lugar de un correo institucional .org o .edu. Esto se debe a que Google Cloud puede ofrecer opciones distintas según la configuración de tu correo institucional. Por eso, encontramos que Gmail puede ser lo mejor para trabajar con Google Earth Engine con fines educativos.
 ```
-
-1. Go to <a href="https://console.cloud.google.com/earth-engine" target="_blank" rel="noopener noreferrer">console.cloud.google.com/earth-engine</a> and sign into your Google account if you're not already signed in. Click {guilabel}`Register` under "Register your Cloud project."
-![Welcome to Earth Engine page](gee_1.png)
-
-2. Click {guilabel}`Create project`
-![Create a project page](gee_2.png)
-
-3. Enter a name like "emerge-lessons" and click {guilabel}`Create`. This name is your project ID. If you are using a .edu or an organizational email, this page may look different and you may have other options or limitations.
-![New project page](gee_3.png)
+1. Ve a <a href="https://console.cloud.google.com/earth-engine" target="_blank" rel="noopener noreferrer">console.cloud.google.com/earth-engine</a> e inicia sesión en tu cuenta de Google si aún no lo has hecho. Haz clic en {guilabel}`Registrar` debajo de "Registra tu proyecto de Cloud".
+![Página de bienvenida a Earth Engine](gee_1.png)
+2. Haz clic en {guilabel}`Crear proyecto`
+![Página para crear un proyecto](gee_2.png)
+3. Escribe un nombre como "emerge-lessons" y haz clic en {guilabel}`Crear`. Este nombre es el ID de tu proyecto. Si usas un correo .edu o institucional, esta página puede verse diferente y podrías tener otras opciones o limitaciones.
+![Página de proyecto nuevo](gee_3.png)
 ```{important}
-Make note of your project ID! There may be some numbers after what you typed, like emerge-lessons-359891
+¡Anota el ID de tu proyecto! Es posible que aparezcan algunos números después de lo que escribiste, como emerge-lessons-359891
 ```
-
-4. Click {guilabel}`Get started` under "See if you are eligible for noncommercial use."
-![Google Cloud configuration page](gee_4.png)
-
-5. Complete the series of short questions as follows:
-
-> For "Select your organization type" choose "Earth Engine trainer or trainee" and click {guilabel}`next`.
-
-> For "Check noncommercial eligibility" choose "Participant" for the first question and then write the date you are starting the lessons, as well as the date you expect to finish. If you are not sure yet, you can put "09/01/2026." If you end up needing more time, you can update this. Click {guilabel}`Check eligibility`
-
-> It should say {fa}`circle-info` **Based on your answers, you are eligible for noncommercial Earth Engine use.** 
-
-> Click {guilabel}`Next` to go to **Choose your plan**. Under "Please select a quota tier," you can select **Community**.
-
-> For "Describe your work," under "Will you use Earth Engine for any of the following? *" choose "Classroom or education" and click {guilabel}`OK`. Then click {guilabel}`Next`
-
-> Your screen should look like below:
-![Earth Engine registration page](gee_5.png)
-
-6. In the pop-up that appears, click {guilabel}`Enable` to enable the Earth Engine API.
-![Enable required APIs](gee_6.png)
-
-7. You should see the page below. You can now close this tab.
-![Configuration page saying Cloud project is registered](gee_7.png)
-
-You have now created your cloud project and enabled the API! Move to the next section to start running Google Earth Engine in Google Colab.
+4. Haz clic en {guilabel}`Comenzar` debajo de "Comprueba si eres apto para el uso no comercial".
+![Página de configuración de Google Cloud](gee_4.png)
+5. Completa la serie de preguntas cortas de la siguiente manera:
+> En "Selecciona el tipo de organización", elige "Instructor o alumno de Earth Engine" y haz clic en {guilabel}`siguiente`.
+> En "Comprueba la idoneidad no comercial", elige "Participante" en la primera pregunta y luego escribe la fecha en que comenzarás las lecciones, así como la fecha en que esperas terminar. Si aún no estás seguro, puedes poner "09/01/2026". Si más adelante necesitas más tiempo, puedes actualizarla. Haz clic en {guilabel}`Comprobar idoneidad`
+> Debería decir {fa}`circle-info` **Según tus respuestas, eres apto para el uso no comercial de Earth Engine.**
+> Haz clic en {guilabel}`Siguiente` para ir a **Elige tu plan**. En "Selecciona un nivel de cuota", puedes elegir **Community**.
+> En "Describe tu trabajo", debajo de "¿Usarás Earth Engine para alguno de los siguientes fines? *", elige "Aula o educación" y haz clic en {guilabel}`Aceptar`. Luego haz clic en {guilabel}`Siguiente`
+> Tu pantalla debería verse como la de abajo:
+![Página de registro de Earth Engine](gee_5.png)
+6. En la ventana emergente que aparece, haz clic en {guilabel}`Habilitar` para habilitar la API de Earth Engine.
+![Habilitar las API requeridas](gee_6.png)
+7. Deberías ver la página de abajo. Ya puedes cerrar esta pestaña.
+![Página que indica que el proyecto de Cloud está registrado](gee_7.png)
+¡Ya creaste tu proyecto de Cloud y habilitaste la API! Pasa a la siguiente sección para empezar a ejecutar Google Earth Engine en Google Colab.
