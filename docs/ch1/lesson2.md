@@ -1,145 +1,144 @@
-# What is Citizen Science?
+# ¿Qué es la ciencia ciudadana?
 
-Parts of this lesson were adapted from a [longer blog post Caroline Nickerson wrote for CitSci](https://blog.citsci.org/2025/07/16/citizen-science-for-educators/).
+Partes de esta lección se adaptaron de una [publicación de blog más extensa que Caroline Nickerson escribió para CitSci](https://blog.citsci.org/2025/07/16/citizen-science-for-educators/).
 
-## What is Research?
-If you’re thinking about doing citizen science, you might ask yourself: What is research?
+## ¿Qué es la investigación?
+Si estás pensando en hacer ciencia ciudadana, quizás te preguntes: ¿qué es la investigación?
 
-In simple terms, research is a systematic way of investigating the world to create new knowledge
+En términos simples, la investigación es una forma sistemática de indagar el mundo para crear nuevo conocimiento.
 
-And why do research? For a number of reasons:
+¿Y por qué investigar? Por varias razones:
 
-- Because you are curious or concerned about something!
-- Because you want to understand a problem or topic.
-- Because you want a foundation built on knowledge to make decisions.
+- ¡Porque sientes curiosidad o preocupación por algo!
+- Porque quieres entender un problema o tema.
+- Porque quieres una base fundamentada en el conocimiento para tomar decisiones.
 
-Some people are professional researchers working for universities, nonprofits, governments, or companies, but others are researchers without a special background or even institutional support.
+Algunas personas son investigadores profesionales que trabajan para universidades, organizaciones sin fines de lucro, gobiernos o empresas, pero otras son investigadoras sin una formación especial ni siquiera apoyo institucional.
 
-Anyone, from any background, can volunteer to engage in research projects, or even start their own. Anyone can create knowledge! This is often done through citizen science.
+Cualquier persona, sin importar su origen, puede ofrecerse como voluntaria para participar en proyectos de investigación, o incluso iniciar el suyo. ¡Cualquiera puede crear conocimiento! Esto suele hacerse a través de la ciencia ciudadana.
 
-## What is Citizen Science?
+## ¿Qué es la ciencia ciudadana?
 
-Citizen science goes by a few different names. It can be: community, neighborhood, crowdsourced, participatory, and/or public science.
+La ciencia ciudadana recibe varios nombres. Puede ser ciencia comunitaria, vecinal, de colaboración abierta (crowdsourced), participativa o pública.
 
-There are [good faith debates](https://www.science.org/doi/10.1126/science.abi6487) out there about what is the best term to use (or what these different terms mean), but a working definition of citizen science for an educator could be: “how any member of the public contributes to scientific discovery, often by collecting, analyzing, or somehow working with data.” And remember, data is just information about the world!
+Existen [debates de buena fe](https://www.science.org/doi/10.1126/science.abi6487) sobre cuál es el mejor término (o qué significan estos distintos términos), pero una definición práctica de ciencia ciudadana para un educador podría ser: "cómo cualquier miembro del público contribuye al descubrimiento científico, a menudo recolectando, analizando o trabajando de alguna forma con datos". Y recuerda: ¡los datos son simplemente información sobre el mundo!
 
-Some citizen science projects are small and local (with only a few people in a certain place participating), but some are big and global. The big projects often rely on crowdsourcing. [Crowdsourcing](https://doi.org/10.1016/j.tree.2009.03.017) is the “the process of outsourcing tasks to a distributed group of people.”
+Algunos proyectos de ciencia ciudadana son pequeños y locales (con solo unas pocas personas participando en un lugar determinado), pero otros son grandes y globales. Los proyectos grandes suelen depender del crowdsourcing. El [crowdsourcing](https://doi.org/10.1016/j.tree.2009.03.017) es "el proceso de delegar tareas a un grupo distribuido de personas".
 
-![Cartoon of a student saying "I think you'll be delightfully suprised by the quality of my work on this assignment. I crowdsourced it.](https://blog.citsci.org/wp-content/uploads/2025/07/image.gif)
-Image source: [Rob Cottingham](https://www.robcottingham.ca/cartoon/)
+![Caricatura de un estudiante que dice "Creo que te sorprenderá gratamente la calidad de mi trabajo en esta tarea. Lo hice por crowdsourcing".](https://blog.citsci.org/wp-content/uploads/2025/07/image.gif)
+Fuente de la imagen: [Rob Cottingham](https://www.robcottingham.ca/cartoon/)
 
-A lot of citizen science also involves community-based monitoring, [described](https://link.springer.com/article/10.1023/A:1025545813057) as when “…concerned citizens, government agencies, industry, academia, community groups, and local institutions collaborate to monitor, track, and respond to issues of common community concern.”
+Gran parte de la ciencia ciudadana también implica el monitoreo comunitario, [descrito](https://link.springer.com/article/10.1023/A:1025545813057) como cuando "…ciudadanos preocupados, agencias gubernamentales, la industria, la academia, grupos comunitarios e instituciones locales colaboran para monitorear, dar seguimiento y responder a asuntos de interés común para la comunidad".
 
-In other words, many communities use citizen science to pay extra-close attention to an issue that matters to them, like sea-level rise (or mosquito habitats! Tracking mosquito habitats helps us predict where mosquito-borne illness might occur).
+En otras palabras, muchas comunidades usan la ciencia ciudadana para prestar especial atención a un tema que les importa, como el aumento del nivel del mar (¡o los hábitats de mosquitos! Dar seguimiento a los hábitats de mosquitos nos ayuda a predecir dónde podrían ocurrir las enfermedades transmitidas por mosquitos).
 
-In citizen science, participation can range from contractual, where communities commission researchers to conduct studies; contributory, where volunteers primarily collect data; collaborative, where participants may also help refine project design or analyze results; co-created, where scientists and community members jointly design and carry out research; to collegial, where non-credentialed individuals conduct independent research ([Bonney et al.](https://doi.org/10.1525/bio.2009.59.11.9) and [Shirk et al.](https://doi.org/10.1016/j.tree.2009.03.017) really articulate these frameworks well).
+En la ciencia ciudadana, la participación puede ir desde la contractual, donde las comunidades encargan a investigadores la realización de estudios; la contributiva, donde los voluntarios principalmente recolectan datos; la colaborativa, donde los participantes también pueden ayudar a refinar el diseño del proyecto o a analizar los resultados; la cocreada, donde científicos y miembros de la comunidad diseñan y llevan a cabo la investigación de forma conjunta; hasta la colegiada, donde personas sin credenciales realizan investigación independiente ([Bonney et al.](https://doi.org/10.1525/bio.2009.59.11.9) y [Shirk et al.](https://doi.org/10.1016/j.tree.2009.03.017) articulan muy bien estos marcos).
 
-Sauermann and Poetz (initially in an [article with Franzoni](https://doi.org/10.1080/13662716.2021.1976627), and then expanded on in their [book](https://www.sciencewithcrowds.org/)) developed a helpful model showing how members of the public (including at scale through the lens of crowd science, or with smaller teams) can be involved at any stage of the research process, from identifying questions to analyzing data to sharing results.
+Sauermann y Poetz (inicialmente en un [artículo con Franzoni](https://doi.org/10.1080/13662716.2021.1976627), y luego ampliado en su [libro](https://www.sciencewithcrowds.org/)) desarrollaron un modelo útil que muestra cómo los miembros del público (incluso a gran escala desde la perspectiva de la ciencia de multitudes, o en equipos más pequeños) pueden participar en cualquier etapa del proceso de investigación, desde identificar preguntas hasta analizar datos y compartir resultados.
 
-But beyond when people participate, Sauermann and Poetz also introduced a framework for understanding how they contribute: the AKRD model.
+Pero más allá de cuándo participan las personas, Sauermann y Poetz también presentaron un marco para entender cómo contribuyen: el modelo AKRD.
 
-AKRD stands for:
-- **Activities** – the actual tasks the crowd members/participants perform (like taking photos of wildlife or transcribing historical documents)
-- **Knowledge** – what people know and bring to the project (including lived experience, local expertise, or disciplinary training)
-- **Resources** – what people have access to (like smartphones, tools, transportation, or even funding)
-- **Decisions** – the ability to help shape the project, whether through setting priorities, refining methods, or choosing how results are used
+AKRD significa, por sus siglas en inglés:
+- **Activities (Actividades)** – las tareas concretas que realizan los miembros de la multitud o participantes (como tomar fotos de la fauna silvestre o transcribir documentos históricos)
+- **Knowledge (Conocimiento)** – lo que las personas saben y aportan al proyecto (incluida la experiencia vivida, el conocimiento local o la formación disciplinaria)
+- **Resources (Recursos)** – aquello a lo que las personas tienen acceso (como teléfonos inteligentes, herramientas, transporte o incluso financiamiento)
+- **Decisions (Decisiones)** – la capacidad de ayudar a dar forma al proyecto, ya sea estableciendo prioridades, refinando métodos o eligiendo cómo se usan los resultados
 
-Participants often contribute through activities (like data collection), but they also bring unique knowledge about their communities, and sometimes make key decisions about what to investigate and why. Understanding these different forms of contribution helps educators create more meaningful, inclusive citizen science experiences, and helps citizen scientists see themselves as full participants in the scientific process.
+Los participantes suelen contribuir mediante actividades (como la recolección de datos), pero también aportan un conocimiento único sobre sus comunidades y, a veces, toman decisiones clave sobre qué investigar y por qué. Entender estas distintas formas de contribución ayuda a los educadores a crear experiencias de ciencia ciudadana más significativas e inclusivas, y ayuda a los científicos ciudadanos a verse como participantes plenos en el proceso científico.
 
-The [CitSci](https://citsci.org/) team often uses a graphic that outlines how different types of citizen science projects fall under different frameworks:
+El equipo de [CitSci](https://citsci.org/) suele usar un gráfico que describe cómo los distintos tipos de proyectos de ciencia ciudadana se enmarcan en diferentes marcos:
 
-![Checklist titled types of participation](https://blog.citsci.org/wp-content/uploads/2025/07/image-1.gif?w=936)
-This table was developed in part based on [Shirk et al.](https://doi.org/10.1016/j.tree.2009.03.017)
+![Lista de verificación titulada tipos de participación](https://blog.citsci.org/wp-content/uploads/2025/07/image-1.gif?w=936)
+Esta tabla se desarrolló en parte con base en [Shirk et al.](https://doi.org/10.1016/j.tree.2009.03.017)
 
-The biggest takeaway from all this is that citizen science makes a difference and advances knowledge.
+La conclusión más importante de todo esto es que la ciencia ciudadana marca la diferencia y hace avanzar el conocimiento.
 
-Because of citizen scientists, we now know (and shout out to [Caren Cooper](https://faculty.cnr.ncsu.edu/carencooper/) for helping flag some of the outcomes on this list!):
-- One-third of bird species are at risk of extinction ([Audubon](https://www.audubon.org/magazine/sweeping-new-report-shows-us-birds-declining-sharply-across-range-habitats))
-- New species of birds, trees, earthworms, and more have been discovered ([Australian Geographic](https://www.australiangeographic.com.au/topics/science-environment/2018/09/a-history-of-the-biggest-discoveries-by-citizen-scientists/))
-- 50+ types of bacteria live in your belly button ([Dunn Lab](https://robdunnlab.com/projects/belly-button-biodiversity/project-history))
-- The first flowering of 19 species of plants has moved 9 days earlier over the past decade, indicating climate change ([Gonsamo et al.](https://www.nature.com/articles/srep02239))
-- There’s a new type of aurora in the night sky (and the citizen scientists named it Steve!) ([NOAA](https://sos.noaa.gov/education/phenomenon-based-learning/this-is-steve/))
-- There’s another Jupiter-sized planet ([TESS](https://exoplanets.nasa.gov/tess/))
-- Invasive mosquito species have arrived in Germany ([Mückenatlas](https://climate-adapt.eea.europa.eu/en/metadata/case-studies/2018muckenatlas2019-a-citizen-science-project-for-mosquito-surveillance-in-germany))
-- Alzheimer’s research is 6x faster than it would be at Cornell’s Schaffer – Nishimura Lab ([Stall Catchers](https://stallcatchers.com/about))
+Gracias a los científicos ciudadanos, ahora sabemos (¡y un agradecimiento a [Caren Cooper](https://faculty.cnr.ncsu.edu/carencooper/) por ayudar a señalar algunos de los resultados de esta lista!):
+- Un tercio de las especies de aves está en riesgo de extinción ([Audubon](https://www.audubon.org/magazine/sweeping-new-report-shows-us-birds-declining-sharply-across-range-habitats))
+- Se han descubierto nuevas especies de aves, árboles, lombrices de tierra y más ([Australian Geographic](https://www.australiangeographic.com.au/topics/science-environment/2018/09/a-history-of-the-biggest-discoveries-by-citizen-scientists/))
+- Más de 50 tipos de bacterias viven en tu ombligo ([Dunn Lab](https://robdunnlab.com/projects/belly-button-biodiversity/project-history))
+- La primera floración de 19 especies de plantas se ha adelantado 9 días en la última década, lo que indica el cambio climático ([Gonsamo et al.](https://www.nature.com/articles/srep02239))
+- Hay un nuevo tipo de aurora en el cielo nocturno (¡y los científicos ciudadanos la llamaron Steve!) ([NOAA](https://sos.noaa.gov/education/phenomenon-based-learning/this-is-steve/))
+- Hay otro planeta del tamaño de Júpiter ([TESS](https://exoplanets.nasa.gov/tess/))
+- Especies invasoras de mosquitos han llegado a Alemania ([Mückenatlas](https://climate-adapt.eea.europa.eu/en/metadata/case-studies/2018muckenatlas2019-a-citizen-science-project-for-mosquito-surveillance-in-germany))
+- La investigación sobre el alzhéimer avanza 6 veces más rápido de lo que sería en el laboratorio Schaffer-Nishimura de Cornell ([Stall Catchers](https://stallcatchers.com/about))
 
-## Citizen Science Data
+## Datos en la ciencia ciudadana
 
-Data is information.
-- Information = words and pictures (qualitative data)
-- Information = numbers and measurements (quantitative data)
+Los datos son información.
+- Información = palabras e imágenes (datos cualitativos)
+- Información = números y mediciones (datos cuantitativos)
 
-Much of citizen science involves the collection and analysis of data. Data collection can be as simple as taking pictures of plants with a [smartphone](http://inaturalist.org/), or as complex as doing a full [water quality sample](https://www.earthecho.org/) with a kit.
+Gran parte de la ciencia ciudadana implica la recolección y el análisis de datos. La recolección de datos puede ser tan simple como tomar fotos de plantas con un [teléfono inteligente](http://inaturalist.org/), o tan compleja como tomar una [muestra completa de calidad del agua](https://www.earthecho.org/) con un kit.
 
-Data analysis also can be simple or complex: you can be clicking on blood vessels to find stalls for [Alzheimer’s researchers](https://www.stallcatchers.com/), or you can be solving complex problems yourself to help synthesize [RNA-based vaccines](https://eternagame.org/).
+El análisis de datos también puede ser simple o complejo: puedes estar haciendo clic en vasos sanguíneos para detectar obstrucciones para [investigadores del alzhéimer](https://www.stallcatchers.com/), o puedes estar resolviendo problemas complejos por tu cuenta para ayudar a sintetizar [vacunas basadas en ARN](https://eternagame.org/).
 
-Anyone can do citizen science by collecting or analyzing data, if they follow the instructions.
+Cualquiera puede hacer ciencia ciudadana recolectando o analizando datos, si sigue las instrucciones.
 
-It’s up to the researcher making a project to create instructions that facilitate meaningful participation (and mitigate possible data collection or analysis mistakes).
+Le corresponde al investigador que crea un proyecto elaborar instrucciones que faciliten una participación significativa (y reduzcan posibles errores en la recolección o el análisis de datos).
 
-We think [GLOBE Observer](https://science.nasa.gov/citizen-science/globe-observer/) has done a great job with their research design, which is one reason they’re the featured project for the EMERGE campaign.
+Creemos que [GLOBE Observer](https://science.nasa.gov/citizen-science/globe-observer/) ha hecho un gran trabajo con el diseño de su investigación, y esa es una de las razones por las que es el proyecto destacado de la campaña EMERGE.
 
-Continue to explore the curriculum to dive in to our featured citizen science project, [GLOBE Observer](https://science.nasa.gov/citizen-science/globe-observer/)!
+¡Sigue explorando el currículo para adentrarte en nuestro proyecto de ciencia ciudadana destacado, [GLOBE Observer](https://science.nasa.gov/citizen-science/globe-observer/)!
 
-But what about all the other citizen science projects out there? And have you ever considered starting your own?
+Pero ¿qué hay de todos los demás proyectos de ciencia ciudadana que existen? ¿Y alguna vez has considerado iniciar el tuyo?
 
-## Finding an Existing Citizen Science Project
+## Cómo encontrar un proyecto de ciencia ciudadana existente
 
-You can certainly start your own citizen science project, but before you do, we recommend that you see what’s already out there.
+Por supuesto que puedes iniciar tu propio proyecto de ciencia ciudadana, pero antes de hacerlo, te recomendamos ver qué existe ya.
 
-There are thousands of local and global citizen science projects in the world, spanning every topic from astronomy to agriculture.
+Hay miles de proyectos de ciencia ciudadana locales y globales en el mundo, que abarcan todos los temas, desde la astronomía hasta la agricultura.
 
-Some projects you can do in the field with a smartphone app or a paper datasheet, some are experiment-based (meaning you’re testing a statement that we believe to be true about the world – a hypothesis) or observational (to understand what’s going on in your community), and others are entirely online, involving data analysis, image tagging, or transcription.
+Algunos proyectos puedes hacerlos en el campo con una app de teléfono inteligente o una hoja de datos en papel; otros se basan en experimentos (es decir, pones a prueba una afirmación que creemos verdadera sobre el mundo, una hipótesis) o en la observación (para entender lo que ocurre en tu comunidad), y otros son completamente en línea, e implican análisis de datos, etiquetado de imágenes o transcripción.
 
-With so many choices, it might be difficult to decide on the right project for you or your community. The good news? If a project truly doesn’t exist that offers what you’re looking for, you can start your own, and several platforms make that easy (**cough cough** CitSci! We’ll explain more later in this post).
+Con tantas opciones, puede ser difícil decidir cuál es el proyecto adecuado para ti o tu comunidad. ¿La buena noticia? Si de verdad no existe un proyecto que ofrezca lo que buscas, puedes iniciar el tuyo, y varias plataformas lo facilitan (**ejem, ejem** ¡CitSci! Lo explicaremos más adelante en esta publicación).
 
-Here are four trusted places to begin exploring:
-- [CitSci](https://citsci.org/) – CitSci is a website and app where anyone can start, manage, or join a citizen science project.. CitSci supports collaborative, community-based science and flexible project design.
-- [SciStarter](https://scistarter.org/education) – SciStarter connects volunteers to over 3,000 citizen science projects, events, and tools. SciStarter also partners with NASA, Verizon, libraries, Girl Scouts, and others to offer engaging content. Many of our EMERGE materials are meant to support [SciStarter Ambassadors](https://scistarter.org/ambassador), who are highly motivated volunteers trying to get others involved in citizen science.
-- [Zooniverse](https://www.zooniverse.org/) – Zooniverse is an online platform for people-powered research. Volunteers can contribute to ongoing projects in fields like astronomy, biology, history, and climate science—usually by analyzing images, transcribing documents, or tagging patterns.
-- [Federal Citizen Science Catalog](https://www.citizenscience.gov/catalog/) – Managed by the U.S. General Services Administration, this catalog lists federally supported citizen science and crowdsourcing projects.
+Estos son cuatro lugares confiables para empezar a explorar:
+- [CitSci](https://citsci.org/) – CitSci es un sitio web y una app donde cualquiera puede iniciar, gestionar o unirse a un proyecto de ciencia ciudadana. CitSci apoya la ciencia colaborativa y comunitaria, y el diseño flexible de proyectos.
+- [SciStarter](https://scistarter.org/education) – SciStarter conecta a voluntarios con más de 3,000 proyectos, eventos y herramientas de ciencia ciudadana. SciStarter también colabora con la NASA, Verizon, bibliotecas, las Girl Scouts y otros para ofrecer contenido atractivo. Muchos de nuestros materiales de EMERGE están pensados para apoyar a los [Embajadores de SciStarter](https://scistarter.org/ambassador), que son voluntarios muy motivados que buscan involucrar a otras personas en la ciencia ciudadana.
+- [Zooniverse](https://www.zooniverse.org/) – Zooniverse es una plataforma en línea para la investigación impulsada por las personas. Los voluntarios pueden contribuir a proyectos en curso en campos como la astronomía, la biología, la historia y la ciencia del clima, por lo general analizando imágenes, transcribiendo documentos o etiquetando patrones.
+- [Catálogo Federal de Ciencia Ciudadana](https://www.citizenscience.gov/catalog/) – Gestionado por la Administración de Servicios Generales de EE. UU. (GSA), este catálogo enumera proyectos de ciencia ciudadana y crowdsourcing con apoyo federal.
 
-## Using SciStarter (to find an existing project) & CitSci (to find an existing project or start your own)
+## Cómo usar SciStarter (para encontrar un proyecto existente) y CitSci (para encontrar un proyecto existente o crear el tuyo)
 
-To summarize above content, there are three steps you can take to immediately engage in citizen science.
-- Find an existing project (SciStarter or CitSci)
-- Analyze citizen science data (CitSci)
-- Create own project (CitSci)
+Para resumir lo anterior, hay tres pasos que puedes seguir para participar de inmediato en la ciencia ciudadana.
+- Encontrar un proyecto existente (SciStarter o CitSci)
+- Analizar datos de ciencia ciudadana (CitSci)
+- Crear tu propio proyecto (CitSci)
 
 ### SciStarter
 
-Let’s start with the SciStarter resources. Our first recommendation is to [use SciStarter to find an existing project](https://scistarter.org/finder) that is a good fit for you; you don’t want to reinvent the wheel, and ideally you can learn something about your community while also contributing to a bigger global goal by joining an existing project.
+Empecemos con los recursos de SciStarter. Nuestra primera recomendación es [usar SciStarter para encontrar un proyecto existente](https://scistarter.org/finder) que se ajuste a ti; no querrás reinventar la rueda y, en el mejor de los casos, puedes aprender algo sobre tu comunidad a la vez que contribuyes a una meta global más grande al unirte a un proyecto existente.
 
-SciStarter connects citizen scientists to over 2,000 projects, events, and tools. It’s the world’s largest searchable citizen science database, and it includes projects from all sorts of other platforms, including CitSci and Zooniverse.
+SciStarter conecta a los científicos ciudadanos con más de 2,000 proyectos, eventos y herramientas. Es la base de datos de ciencia ciudadana con búsqueda más grande del mundo, e incluye proyectos de todo tipo de plataformas, incluidas CitSci y Zooniverse.
 
-You can start with the [project finder](https://scistarter.org/finder) and search topics that you’re interested in. If you’re an educator, make sure you select the “has classroom materials” filter. Not every project has been intentional about designing themselves for people to learn as they participate – and that’s not necessarily a bad thing – but those that do actually [have better outcomes](https://blog.scistarter.org/2020/11/national-academy-of-sciences-report-is-a-guide-to-making-citizen-science-work-for-everyone/).
+Puedes empezar con el [buscador de proyectos](https://scistarter.org/finder) y buscar temas que te interesen. Si eres educador, asegúrate de seleccionar el filtro "tiene materiales para el aula". No todos los proyectos se han diseñado de forma intencional para que las personas aprendan mientras participan (y eso no es necesariamente malo), pero los que sí lo hacen [obtienen mejores resultados](https://blog.scistarter.org/2020/11/national-academy-of-sciences-report-is-a-guide-to-making-citizen-science-work-for-everyone/).
 
-![Use the mini Project Finder on the home page of SciStarter or the Advanced Search](https://blog.citsci.org/wp-content/uploads/2025/07/image-6.gif?w=936)
+![Usa el mini buscador de proyectos en la página de inicio de SciStarter o la búsqueda avanzada](https://blog.citsci.org/wp-content/uploads/2025/07/image-6.gif?w=936)
 
-Some other SciStarter resources that can get you started include:
-- The [Field Guide to Citizen Science](https://www.hachettebookgroup.com/titles/darlene-cavalier/the-field-guide-to-citizen-science/9781604698473/?lens=timber-press) book
-- All the [trainings](https://scistarter.org/training)
-    - In higher ed? Pay special attention to that [training](https://scistarter.org/training-highered)
-- The [Ambassador program](https://scistarter.org/ambassadors)
-- The [Girl Scouts program](https://scistarter.org/girlscouts-info)
-- [NASA programs](https://scistarter.org/NASA)
-- [One Million Acts of Science](https://scistarter.org/citizensciencemonth) each April
+Otros recursos de SciStarter que pueden ayudarte a empezar incluyen:
+- El libro [Field Guide to Citizen Science](https://www.hachettebookgroup.com/titles/darlene-cavalier/the-field-guide-to-citizen-science/9781604698473/?lens=timber-press)
+- Todas las [capacitaciones](https://scistarter.org/training)
+    - ¿Estás en educación superior? Presta especial atención a esa [capacitación](https://scistarter.org/training-highered)
+- El [programa de Embajadores](https://scistarter.org/ambassadors)
+- El [programa de las Girl Scouts](https://scistarter.org/girlscouts-info)
+- [Programas de la NASA](https://scistarter.org/NASA)
+- [One Million Acts of Science](https://scistarter.org/citizensciencemonth) cada abril
 
 ### CitSci
-After exploring SciStarter, you might be wondering:
-- Is there a platform where I can both find citizen science projects *and* build my own?
-- What if I want to dive deeper, by analyzing real data?
+Después de explorar SciStarter, quizás te preguntes:
+- ¿Existe una plataforma donde pueda tanto encontrar proyectos de ciencia ciudadana *como* crear el mío?
+- ¿Y si quiero profundizar más, analizando datos reales?
 
-That’s where [CitSci.org](https://citsci.org/) comes in.
+Ahí es donde entra [CitSci.org](https://citsci.org/).
 
-CitSci is both a website and an app designed for researchers, educators, community groups, and anyone curious about the world around them. It’s a platform where you can:
-- Start your own citizen science project
-- Join and contribute to existing projects
-- Analyze data collected by others
+CitSci es a la vez un sitio web y una app diseñada para investigadores, educadores, grupos comunitarios y cualquier persona con curiosidad por el mundo que la rodea. Es una plataforma donde puedes:
+- Iniciar tu propio proyecto de ciencia ciudadana
+- Unirte y contribuir a proyectos existentes
+- Analizar datos recolectados por otras personas
 
-While SciStarter helps you find projects across many platforms (including ones from CitSci), on CitSci, you can not only find projects that people have used CitSci to create, but also create your own project and use free tools to analyze data contributed by the global community (for public projects, or for projects you create).
+Mientras que SciStarter te ayuda a encontrar proyectos en muchas plataformas (incluidos los de CitSci), en CitSci no solo puedes encontrar proyectos que las personas han creado con CitSci, sino también crear tu propio proyecto y usar herramientas gratuitas para analizar datos aportados por la comunidad global (en proyectos públicos o en proyectos que tú crees).
 
-To get started, we recommend heading over to [CitSci’s homepage](https://citsci.org/) and creating an account. Then, you can explore featured global projects and other projects that might pertain to your locality.
+Para empezar, te recomendamos ir a la [página de inicio de CitSci](https://citsci.org/) y crear una cuenta. Luego, podrás explorar proyectos globales destacados y otros proyectos que puedan corresponder a tu localidad.
 
-The CitSci team wrote a [blog post](https://blog.citsci.org/2025/06/24/setting-up-your-first-project-datasheet/) to help you create your first project and datasheet.
-
+El equipo de CitSci escribió una [publicación de blog](https://blog.citsci.org/2025/06/24/setting-up-your-first-project-datasheet/) para ayudarte a crear tu primer proyecto y hoja de datos.
