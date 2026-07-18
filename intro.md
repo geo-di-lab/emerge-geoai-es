@@ -21,7 +21,3 @@ El equipo de EMERGE agradece el apoyo de Earth Science Information Partners a tr
 - [SciStarter](https://scistarter.org/)
 - [CitSci](https://citsci.org/)
 - [Association for Advancing Participatory Sciences](https://participatorysciences.org/)
-
-# Próximamente
-
-Más lecciones centradas en datos de teledetección y Google Earth Engine, junto con recursos adaptados a partir de los comentarios de nuestra red.
