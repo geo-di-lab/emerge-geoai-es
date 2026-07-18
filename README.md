@@ -1,7 +1,4 @@
-# GeoAI for Participatory Science
-
-Environmental Monitoring through Education, Research & Geospatial Engagement (EMERGE) is an initiative of the University of Florida's [Geospatial Digital Informatics Lab](https://geodi.geog.ufl.edu/) that connects with educators, libraries, community organizations, and individuals across Florida to engage in environmental monitoring and community-based research using real-world data and participatory science.
-
-Through participatory science initiatives like GLOBE Observer, iNaturalist, and more, participants help monitor mosquito breeding sites, classify land cover, and contribute data to global scientific efforts.
-
-This digital textbook includes interactive coding tutorials designed to introduce you to the expansive capabilities of participatory science and geospatial artificial intelligence.
+# GeoAI para la ciencia participativa
+Monitoreo Ambiental mediante Educación, Investigación y Participación Geoespacial (EMERGE, por sus siglas en inglés) es una iniciativa del [Laboratorio de Informática Digital Geoespacial](https://geodi.geog.ufl.edu/) de la Universidad de Florida que conecta con educadores, bibliotecas, organizaciones comunitarias y personas de todo Florida para participar en el monitoreo ambiental y la investigación comunitaria usando datos reales y ciencia participativa.
+A través de iniciativas de ciencia participativa como GLOBE Observer, iNaturalist y más, quienes participan ayudan a monitorear criaderos de mosquitos, clasificar la cobertura del suelo y aportar datos a esfuerzos científicos de todo el mundo.
+Este libro de texto digital incluye tutoriales de programación interactivos diseñados para introducirte a las amplias posibilidades de la ciencia participativa y la inteligencia artificial geoespacial.
