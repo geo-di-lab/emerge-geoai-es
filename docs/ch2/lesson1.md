@@ -1,105 +1,108 @@
-# Intro to Artificial Intelligence
+# Introducción a la inteligencia artificial
 
-Artificial Intelligence (AI) refers to computer systems that can perform tasks typically requiring human intelligence. Think of AI as software that can learn patterns from examples and make decisions or predictions based on what it has learned.
+La inteligencia artificial (IA) se refiere a sistemas informáticos capaces de realizar tareas que normalmente requieren inteligencia humana. Puedes pensar en la IA como un software que aprende patrones a partir de ejemplos y toma decisiones o hace predicciones basándose en lo que ha aprendido.
 
-There are two main categories of AI that you'll encounter:
+Existen dos categorías principales de IA que encontrarás:
 
-### Analytical AI
-**Analytical AI** examines data to find patterns, make predictions, and extract insights. It can complete tedious tasks automatically and consistently, which is especially useful for participatory science projects where you may have thousands of photos.
+### IA analítica
 
-*Examples:* Identifying species in photos, predicting weather patterns, detecting diseases in medical images
+La **IA analítica** examina datos para encontrar patrones, hacer predicciones y extraer información útil. Puede realizar tareas repetitivas de manera automática y consistente, lo cual resulta especialmente útil para proyectos de ciencia participativa que pueden tener miles de fotografías.
 
-### Generative AI
-**Generative AI** creates new content (text, images, etc.). You've likely seen a lot of examples from ChatGPT, but this type of AI is also present in caption generation, sentiment analysis, and more.
+*Ejemplos:* identificar especies en fotografías, predecir patrones meteorológicos y detectar enfermedades en imágenes médicas.
 
-**This lesson focuses on Analytical AI and its applications in participatory science.**
+### IA generativa
 
----
+La **IA generativa** crea contenido nuevo, como texto e imágenes. Probablemente hayas visto muchos ejemplos en ChatGPT, pero este tipo de IA también se utiliza para generar descripciones de imágenes, analizar sentimientos y realizar muchas otras tareas.
 
-## Understanding the World Through Data
-
-Analytical AI is particularly valuable for participatory science (also called citizen science) because it helps volunteers and researchers process and understand large amounts of data collected from the real world.
-
-### 1. Classification: Sorting Things into Categories
-
-Classification looks at something and decides which category it belongs to.
-
-The AI learns from thousands of labeled examples. If you show it 10,000 photos of birds with their species names, it learns to recognize the features that distinguish a cardinal from a blue jay.
-
-**Applications:**
-- Upload a photo of a bird, plant, or insect, and the AI identifies what species it is
-- Classify water samples as "safe" or "needs attention" based on color and clarity
-- Identify whether a galaxy in a telescope image is spiral, elliptical, or irregular
-- Identify frog species by their calls or detect whale songs in ocean recordings
+**Esta lección se centra en la IA analítica y sus aplicaciones en la ciencia participativa.**
 
 ---
 
-### 2. Regression: Predicting Continuous Values
+## Comprender el mundo a través de los datos
 
-Regression predicts a number or measurement rather than a category. The AI learns relationships between different measurements. If you show it historical data about temperature, humidity, and sunlight alongside plant growth measurements, it learns to predict how much a plant will grow under specific conditions.
+La IA analítica es especialmente valiosa para la ciencia participativa, también llamada ciencia ciudadana, porque ayuda a voluntarios e investigadores a procesar y comprender grandes cantidades de datos recopilados en el mundo real.
 
-**Applications:**
-- Predict pollution levels (e.g., "PM2.5 concentration: 45 μg/m³") from sensor readings
-- Estimate the number of animals in a habitat based on partial observations
-- Predict when plants will bloom based on temperature and rainfall data collected by volunteers
-- Assign numerical health scores to coral reefs based on photographs
+### 1. Clasificación: organizar elementos en categorías
 
----
+La clasificación examina algo y determina a qué categoría pertenece.
 
-### 3. Segmentation: Outlining and Separating
+La IA aprende a partir de miles de ejemplos etiquetados. Si le muestras 10,000 fotografías de aves junto con los nombres de sus especies, aprende a reconocer las características que distinguen a un cardenal de un arrendajo azul.
 
-Segmentation draws precise boundaries around objects or regions of interest in images. The AI learns to recognize where each object begins and ends, pixel by pixel.
-
-**Applications:**
-- Automatically outline different land types (forest, wetland, urban) in satellite images
-- Trace the boundaries of different coral types and algae coverage in underwater photos
-- Outline and measure the extent of plastic debris in ocean cleanup efforts
-- Calculate the exact area of tree coverage in urban neighborhoods
+**Aplicaciones:**
+- Subir una fotografía de un ave, una planta o un insecto para que la IA identifique su especie
+- Clasificar muestras de agua como "seguras" o "requieren atención" según su color y claridad
+- Identificar si una galaxia en una imagen de telescopio es espiral, elíptica o irregular
+- Identificar especies de ranas por sus llamados o detectar cantos de ballenas en grabaciones del océano
 
 ---
 
-### 4. Object Detection: Finding and Locating
+### 2. Regresión: predecir valores continuos
 
-Object detection finds all instances of specific objects in an image and draws boxes around them. The AI recognizes what objects are present and where they're located, often handling multiple objects of different types in the same image.
+La regresión predice un número o una medida en lugar de una categoría. La IA aprende las relaciones entre distintas mediciones. Si le muestras datos históricos de temperatura, humedad y luz solar junto con mediciones del crecimiento de plantas, puede aprender a predecir cuánto crecerá una planta bajo condiciones específicas.
 
-**Applications:**
-- Automatically detect and count animals in thousands of camera trap photos
-- Find and track bird nests in trail camera footage
-- Detect and count tiny plastic particles in water samples photographed under magnification
-- Count and locate different bee species visiting flowers in time-lapse videos
-
----
-
-### 5. Vision-Language Models: Connecting Images and Words
-
-Vision-language AI understands both images and text, allowing it to answer questions about photos, generate descriptions, or search for images using natural language. These models learn the relationships between visual features and language, so they can "understand" what's happening in an image and communicate about it in words.
-
-**Applications:**
-- Find specific observations by describing them ("Show me all photos with purple flowers near water")
-- Automatically generate detailed descriptions of field observations
-- Identify and describe the same animal across multiple photos
-- Evaluate whether observations meet research requirements ("Is this photo clear enough to identify the species?")
+**Aplicaciones:**
+- Predecir niveles de contaminación, por ejemplo, "concentración de PM2.5: 45 μg/m³", a partir de lecturas de sensores
+- Estimar la cantidad de animales presentes en un hábitat a partir de observaciones parciales
+- Predecir cuándo florecerán las plantas utilizando datos de temperatura y precipitación recopilados por voluntarios
+- Asignar puntuaciones numéricas sobre el estado de salud de los arrecifes de coral a partir de fotografías
 
 ---
 
-## Responsible AI
+### 3. Segmentación: delinear y separar
 
-It's important to remember that **analytical AI works best when partnered with humans**. In participatory science:
+La segmentación dibuja límites precisos alrededor de objetos o regiones de interés dentro de una imagen. La IA aprende a reconocer dónde comienza y termina cada objeto, píxel por píxel.
 
-- **Humans collect** diverse, real-world data from locations and conditions AI couldn't access
-- **AI processes** large volumes of data quickly to find patterns
-- **Humans verify** AI results, catch errors, and handle unusual or ambiguous cases
-- **AI learns** from human corrections, continuously improving
-
-This partnership allows participatory scientists to contribute to research at scales previously impossible, from tracking global bird migrations to monitoring ocean health to mapping biodiversity.
+**Aplicaciones:**
+- Delinear automáticamente distintos tipos de terreno, como bosques, humedales y zonas urbanas, en imágenes satelitales
+- Trazar los límites de diferentes tipos de coral y de la cobertura de algas en fotografías submarinas
+- Delinear y medir la extensión de residuos plásticos durante actividades de limpieza del océano
+- Calcular el área exacta de cobertura arbórea en vecindarios urbanos
 
 ---
 
-## Getting Started
+### 4. Detección de objetos: encontrar y localizar
 
-Many participatory science projects now incorporate analytical AI. Look for projects on platforms like:
+La detección de objetos encuentra todos los casos de objetos específicos dentro de una imagen y dibuja recuadros a su alrededor. La IA reconoce qué objetos están presentes y dónde se encuentran. También puede identificar varios objetos de distintos tipos dentro de una misma imagen.
+
+**Aplicaciones:**
+- Detectar y contar animales automáticamente en miles de fotografías tomadas con cámaras trampa
+- Encontrar y rastrear nidos de aves en grabaciones de cámaras instaladas en senderos
+- Detectar y contar pequeñas partículas de plástico en fotografías ampliadas de muestras de agua
+- Contar y localizar diferentes especies de abejas que visitan flores en videos de lapso de tiempo
+
+---
+
+### 5. Modelos de visión y lenguaje: conectar imágenes y palabras
+
+La IA de visión y lenguaje comprende tanto imágenes como texto. Esto le permite responder preguntas sobre fotografías, generar descripciones o buscar imágenes mediante lenguaje natural. Estos modelos aprenden las relaciones entre las características visuales y el lenguaje, por lo que pueden "comprender" lo que ocurre en una imagen y comunicarlo con palabras.
+
+**Aplicaciones:**
+- Encontrar observaciones específicas mediante una descripción, como "Muéstrame todas las fotografías con flores moradas cerca del agua"
+- Generar automáticamente descripciones detalladas de observaciones de campo
+- Identificar y describir al mismo animal en varias fotografías
+- Evaluar si las observaciones cumplen con los requisitos de una investigación, por ejemplo, "¿Esta fotografía es lo suficientemente clara para identificar la especie?"
+
+---
+
+## Uso responsable de la IA
+
+Es importante recordar que la **IA analítica funciona mejor cuando trabaja en colaboración con las personas**. En la ciencia participativa:
+
+- **Las personas recopilan** datos diversos del mundo real en lugares y condiciones a los que la IA no podría acceder por sí sola
+- **La IA procesa** rápidamente grandes volúmenes de datos para encontrar patrones
+- **Las personas verifican** los resultados de la IA, detectan errores y se encargan de casos inusuales o ambiguos
+- **La IA aprende** de las correcciones realizadas por las personas y mejora continuamente
+
+Esta colaboración permite que quienes participan en proyectos de ciencia participativa contribuyan a investigaciones a escalas que antes no eran posibles, desde el seguimiento de migraciones mundiales de aves hasta el monitoreo de la salud de los océanos y el mapeo de la biodiversidad.
+
+---
+
+## Primeros pasos
+
+Muchos proyectos de ciencia participativa ya incorporan IA analítica. Puedes encontrar proyectos en plataformas como:
+
 - [iNaturalist](https://www.inaturalist.org/)
 - [SciStarter](https://scistarter.org/)
 - [CitSci.org](https://citsci.org/)
 
-Your observations and classifications help train and improve these AI systems while contributing to important research!
+Tus observaciones y clasificaciones ayudan a entrenar y mejorar estos sistemas de IA, al mismo tiempo que contribuyen a investigaciones importantes.
